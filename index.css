@@ -1,0 +1,22 @@
+.card {
+    background-color:blanchedalmond;
+}
+
+body{
+    background-color:grey;
+
+}
+
+.card-title{
+
+    background-color:goldenrod;
+   
+
+}
+.card-text{
+    text-align: center;
+
+}
+.btn{
+ justify-content: center;
+}
